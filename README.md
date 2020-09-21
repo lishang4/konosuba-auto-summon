@@ -1,0 +1,1 @@
+# konosuba-auto-summon
